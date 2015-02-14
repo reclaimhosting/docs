@@ -4,3 +4,4 @@ site_description: All documents published by Reclaim Hosting are provided with a
 site_author: Reclaim Hosting
 repo_url: https://github.com/reclaimhosting/docs/
 theme: readthedocs
+theme_dir: "theme"
