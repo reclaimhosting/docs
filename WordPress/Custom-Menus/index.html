@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Custom Menus - Reclaim Hosting Documentation</title>
+  
+
+  
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../../css/highlight.css">
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  <script type="text/javascript" src="../../js/highlight.pack.js"></script>
+  <script src="../../js/theme.js"></script>
+
+  <style>
+    body {font-size: 90%;}
+    pre, code {font-size: 100%;}
+    h3, h4, h5, h6 {color: #2980b9; font-weight: 300}
+  </style> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> Reclaim Hosting Documentation</a>
+        
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+      <ul class="current">
+    
+        
+        <span>Domain Management</span>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../Domain-Management/Mapping-a-Domain-to-Custom-DNS-Records">Mapping a Domain to Custom DNS Records</a>
+                    
+                </li>
+            
+        
+
+    
+        
+        <span>FAQ</span>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../FAQ/Can-I-Upgrade-my-Account-Later">Can I Upgrade my Account Later</a>
+                    
+                </li>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../FAQ/How-do-I-Cancel-my-Account">How do I Cancel my Account</a>
+                    
+                </li>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../FAQ/ID-Protect-FAQ">ID Protect FAQ</a>
+                    
+                </li>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../FAQ/Is-Reclaim-Hosting-only-for-education">Is Reclaim Hosting only for education</a>
+                    
+                </li>
+            
+        
+
+    
+        
+        <span>Getting Started with Reclaim Hosting</span>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../Getting-Started-with-Reclaim-Hosting/Installing-WordPress">Installing WordPress</a>
+                    
+                </li>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../Getting-Started-with-Reclaim-Hosting/Logging-In-and-Account-Management">Logging In and Account Management</a>
+                    
+                </li>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../Getting-Started-with-Reclaim-Hosting/Uploading-Files-to-your-Reclaim-Hosting-Account">Uploading Files to your Reclaim Hosting Account</a>
+                    
+                </li>
+            
+        
+
+    
+        
+        <span>Miscellaneous</span>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../../Miscellaneous/What-Exactly-is-a-Web-Application">What Exactly is a Web Application</a>
+                    
+                </li>
+            
+        
+
+    
+        
+        <span>WordPress</span>
+            
+                <li class="toctree-l1 current">
+                    <a class="current" href=".">Custom Menus</a>
+                    
+                        <ul>
+                        
+                            <li class="toctree-l2"><a href="#building-your-custom-menu">Building Your Custom Menu</a></li>
+                            
+                        
+                            <li class="toctree-l2"><a href="#other-notes-about-menus">Other Notes about Menus</a></li>
+                            
+                        
+                        </ul>
+                    
+                </li>
+            
+        
+
+    
+</ul>
+
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="icon icon-reorder"></i>
+        <a href="../.."></a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    <li>Custom Menus</li>
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="https://github.com/reclaimhosting/docs/" class="icon icon-github"> Edit on GitHub</a>
+          
+        
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              <p>Out of the box, most WordPress themes will create default navigation for your site based upon the content you create. Posts, for example, will be available through some kind of blog presentation -- displayed in reverse, chronological order. In addition, you may be able to add <strong>Widgets</strong> to your site's sidebar that allow readers to navigate your posts based upon the category they were in or when they were published.</p>
+<p>Pages, by default, are usually used to build a menu somewhere in your theme. Each top-level page becomes another item in that menu. When you create new pages, you can choose to "nest" them underneath other pages by choosing a page <strong>Parent</strong>. This can be cumbersome, however, and, eventually, you may wish to organize your site's content by creating a <strong>Custom Menu</strong>.</p>
+<p>In addition to allowing you to more flexibly organize the pages on your site, Custom Menus now allow you to add posts, categories/tags, and custom links to your menu. With this feature, you can really build an entirely customized navigation tool for your site, and you can be sure that all your content is organized and available to your readers exactly how you want.</p>
+<p>There are two primary components to building a Custom Menu:</p>
+<ol>
+<li>You must designated and organize the links you want to be in your menu.</li>
+<li>You must "place" the menu somewhere in your theme. Most themes will have at least one Custom Menu built into their design. Some may have several areas designated for Custom Menus. Older themes may not use Custom Menus at all; for these you will have to rely on the default menus created by the them based on your site's content.</li>
+</ol>
+<h3 id="building-your-custom-menu">Building Your Custom Menu</h3>
+<p>Start at your site's <strong>Dashboard</strong> and choose <strong>Appearance &gt; Menus</strong>. </p>
+<p><img alt="image" src="http://i.imgur.com/EZEHEZ6.jpg" /></p>
+<p>In the Custom Menus interface that appears, type a name for your menu. This can be anything you want. It doesn't get displayed anywhere; it's used by WordPress to identify and place your menu. Once you've typed the name, click <strong>Create Menu</strong>. </p>
+<p><img alt="image" src="http://i.imgur.com/qA2v9DV.jpg" /></p>
+<p>You'll now be presented with a screen that includes a section titled <strong>Menu Settings</strong>. This is where you'll indicate where you want your menu to appear in your theme. The number of locations available depends entirely upon the theme you choose. In the example shown below, there are two areas available; we've chosen to place the menu in the <strong>Top primary menu</strong> area which we know corresponds to the header menu. You may need to experiment a bit in order to find out where your menu will appear in your theme. You can always change this location later by coming back here and clicking the <strong>Manage Locations</strong> tab.</p>
+<p><img alt="image" src="http://i.imgur.com/AabhESA.jpg" /></p>
+<p>Now that you've set up your menu and assigned it to a location, you can begin to add links to it. On the left-hand side of the screen, you'll see what content is available to add. On the right-hand side of the screen, in the <strong>Menu Structure</strong> area, you can arrange and organize your links.</p>
+<p>By default, you may not see everything that is available to you to add to your menu. For example, posts can be added to menus, but they're not usually displayed by default. To make more content available, click the <strong>Screen Options</strong> tab at the top of your WordPress screen, and then click off the check boxes that correspond to additional content.</p>
+<p><img alt="image" src="http://i.imgur.com/DFGw89j.jpg" /></p>
+<p>To add content to your menu, simply check it off on the left, and click the <strong>Add to Menu</strong> button. </p>
+<p><img alt="image" src="http://i.imgur.com/3JZMREP.jpg" /></p>
+<p>Your new content will appear on the right, and you can drag items in the order you want them to appear. Drag items to the right to indent them under other items. This will usually make them appear as drop-down items in your menu. </p>
+<p><img alt="image" src="http://i.imgur.com/muuQQX9.jpg" /></p>
+<p>You can add custom links to your menu by clicking the <strong>Links</strong> section on the left. In the short form that appears, enter your link's URL, and a text for the link. Click <strong>Add to Menu</strong> to move it to the left.</p>
+<p><img alt="image" src="http://i.imgur.com/cqgzbFS.jpg" /></p>
+<p>Note that you can change the link text of any item you add to your menu. This can be helpful if you have a page with a long title, and you'd like the link to not take up so much space. You can abbreviate the title in the <strong>Navigation Label</strong> section, and that shorter text will become the actual menu link.</p>
+<p><img alt="image" src="http://i.imgur.com/80yso75.jpg" /></p>
+<p>When you are done, make sure you click <strong>Save Menu</strong>.</p>
+<h3 id="other-notes-about-menus">Other Notes about Menus</h3>
+<ul>
+<li>When you add a <strong>Category</strong> or <strong>Tag</strong> to a menu, the link will take your readers to an archive of all the posts on your site that use that category or tag. This can be a very useful feature for organizing your content when you're using posts to share your work.</li>
+<li>In addition to assigning Custom Menus to theme areas, there is a default Custom Menu widget that you can put in the sidebar of your site. This is useful for creating smaller, customized navigation for your site.</li>
+<li>If you forget to click <strong>Save Menu</strong> after making changes to your menu location or content, you will lose your work!</li>
+</ul>
+
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="../../Miscellaneous/What-Exactly-is-a-Web-Application" class="btn btn-neutral" title="What Exactly is a Web Application"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+    <!-- Copyright etc -->
+    </p>
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+	  
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+<div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+        
+            <a class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
+        
+      <span><a href="../../Miscellaneous/What-Exactly-is-a-Web-Application" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      <span style="margin-left: 15px"><a href="" style="color: #fcfcfc">Next &raquo;</a></span>
+    </span>
+</div>
+</body>
+</html>
