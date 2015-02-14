@@ -73,3 +73,5 @@ Using this process allows you to edit and save your files locally and then uploa
 Another convenient way of working with the files and folders of your account is to mount a network drive using a tool called **Web Disk** in cPanel. Web Disk is a fancy name for a standard protocol called **WebDav** and functionality is built into most operating systems including Mac and PC. cPanel provides shortcut scripts to setup your computer with a network folder by clicking on the **Web Disk** icon in cPanel and then **Access Web Disk**. You'll need to know what operating system version you are using to download the appropriate script. Once you've run the script you'll be prompted for a username and password which would be the same as your FTP account. This will mount a network drive to your computer with full access to the folders and files on the server, allowing you to drag and drop, rename, and delete items as you would any other folder on your computer. If the script doesn't work cPanel also provides the settings to connect manually below the download link.
 
 ![image](http://i.imgur.com/jyw0bVH.png)
+
+<meta property="st:image" content="http://i.imgur.com/WnSdhqu.png">

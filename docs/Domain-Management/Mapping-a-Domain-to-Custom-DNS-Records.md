@@ -17,3 +17,5 @@ Replace your server's IP address with the IP address provided by the third-party
 ![image](http://i.imgur.com/eMuVOnC.png)
 
 If the service you are mapping a domain to provides a **CNAME** the process is very similar. Find the CNAME record for the domain, which will be prefixed with www. and edit the record to point to the domain name that the service provides to you. CNAME records require either the domain be a subdomain or have the www. prefix.
+
+<meta property="st:image" content="http://i.imgur.com/pIUqgLp.png">

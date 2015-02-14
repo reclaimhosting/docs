@@ -35,3 +35,5 @@ The automated installer will start it's magic and get your site created for you.
 ![image](http://i.imgur.com/gJs12CQ.png)
 
 You're all set! Go build something awesome and if you run into anything put in a support ticket or shoot us an email at [support@reclaimhosting.com](mailto:support@reclaimhosting.com) and we'll be happy to help.
+
+<meta property="st:image" content="http://i.imgur.com/kSeeUq0.png">

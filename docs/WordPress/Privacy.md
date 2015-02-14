@@ -17,3 +17,5 @@ You also have options on individual posts to keep them private, so that only peo
 ![image](http://i.imgur.com/Yf7tbeV.jpg)
 
 For additional privacy options add the [Absolute Privacy](https://wordpress.org/plugins/absolute-privacy/) plugin (or for Multisite use the [More Privacy Options](https://wordpress.org/plugins/more-privacy-options/) plugin).
+
+<meta property="st:image" content="http://i.imgur.com/Yf7tbeV.jpg">

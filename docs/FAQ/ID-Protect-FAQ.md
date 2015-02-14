@@ -23,3 +23,5 @@ For mail which does not appear to be unsolicited commercial mail, the Whois Priv
 ###Why can’t I use ID Protect with my .us or .ca name?
 
 The .us and .ca Registries require that those domain names have actual identity and contact information, rather than forwarding information.
+
+<meta property="st:image" content="http://i.imgur.com/x4aQCAh.png">
