@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Is Reclaim Hosting only for education - Reclaim Hosting Documentation</title>
+  <title>Working with Omeka - Reclaim Hosting Documentation</title>
   
 
   
@@ -75,26 +75,22 @@
         <span>FAQ</span>
             
                 <li class="toctree-l1 ">
-                    <a class="" href="../Can-I-Upgrade-my-Account-Later">Can I Upgrade my Account Later</a>
+                    <a class="" href="../../FAQ/Can-I-Upgrade-my-Account-Later">Can I Upgrade my Account Later</a>
                     
                 </li>
             
                 <li class="toctree-l1 ">
-                    <a class="" href="../How-do-I-Cancel-my-Account">How do I Cancel my Account</a>
+                    <a class="" href="../../FAQ/How-do-I-Cancel-my-Account">How do I Cancel my Account</a>
                     
                 </li>
             
                 <li class="toctree-l1 ">
-                    <a class="" href="../ID-Protect-FAQ">ID Protect FAQ</a>
+                    <a class="" href="../../FAQ/ID-Protect-FAQ">ID Protect FAQ</a>
                     
                 </li>
             
-                <li class="toctree-l1 current">
-                    <a class="current" href=".">Is Reclaim Hosting only for education</a>
-                    
-                        <ul>
-                        
-                        </ul>
+                <li class="toctree-l1 ">
+                    <a class="" href="../../FAQ/Is-Reclaim-Hosting-only-for-education">Is Reclaim Hosting only for education</a>
                     
                 </li>
             
@@ -136,8 +132,21 @@
         
         <span>Omeka</span>
             
-                <li class="toctree-l1 ">
-                    <a class="" href="../../Omeka/Working-with-Omeka">Working with Omeka</a>
+                <li class="toctree-l1 current">
+                    <a class="current" href=".">Working with Omeka</a>
+                    
+                        <ul>
+                        
+                            <li class="toctree-l2"><a href="#imagemagick">ImageMagick</a></li>
+                            
+                        
+                            <li class="toctree-l2"><a href="#php-cli">PHP-CLI</a></li>
+                            
+                        
+                            <li class="toctree-l2"><a href="#uploading-plugins-and-themes">Uploading Plugins and Themes</a></li>
+                            
+                        
+                        </ul>
                     
                 </li>
             
@@ -195,7 +204,7 @@
           <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../..">Docs</a> &raquo;</li>
-    <li>Is Reclaim Hosting only for education</li>
+    <li>Working with Omeka</li>
       <li class="wy-breadcrumbs-aside">
         
           
@@ -208,7 +217,20 @@
 </div>
           <div role="main">
             <div class="section">
-              <p>While our focus always has and always will be providing the best experience for students and faculty in K-12 and Higher Ed, we have professionals and organizations across the globe that value us as their host and we're happy to play an important role in making the process of building out a space on the web easier for everyone.</p>
+              <p>Reclaim Hosting includes an automated installer for Omeka, an open source publishing platform with a focus on collections and repositories. Here are a few tips and tricks that can help make sure you get the most out of the software.</p>
+<h3 id="imagemagick">ImageMagick</h3>
+<p>Omeka requires the ImageMagick library in order to resize and generate thumbnails for your images. Reclaim Hosting provides ImageMagic on all of our servers but occasionally you will need to manually enter the server path to the utility. The setting for this is located under the <strong>Settings</strong> &gt; <strong>General</strong> tab and the path to ImageMagick is <strong>/usr/bin</strong></p>
+<p><img alt="image" src="http://i.imgur.com/mIMQV8G.png" /></p>
+<h3 id="php-cli">PHP-CLI</h3>
+<p>Some plugins may need to execute code using the command-line version of PHP. If your plugin requires this it can be enabled by editing <strong>application/config/config.ini</strong> and modifying the <strong>background.php.path = ""</strong> line to the following: <strong>background.php.path = "/usr/bin/php-cli"</strong></p>
+<h3 id="uploading-plugins-and-themes">Uploading Plugins and Themes</h3>
+<p>Omeka provides a variety of open source themes and plugins on our website available for download, however there is no automated process for loading them into your Omeka installation from the admin interface at this time. Here's how to makes plugins and themes available to your installation.</p>
+<p>Login to Reclaim Hosting and navigate to your cPanel via the menu</p>
+<p><img alt="image" src="http://i.imgur.com/078MlRC.png" /></p>
+<p><img alt="image" src="http://i.imgur.com/9GULbFn.png" /></p>
+<p>In cPanel you'll be using the <strong>File Manager</strong> utility to navigate to the appropriate folder and upload the files.</p>
+<p><img alt="image" src="http://i.imgur.com/01jwC8o.png" /></p>
+<p>Within the File Manager you can navigate to your Omeka directory where you'll find a plugins and themes folder. Inside of those folders are the plugins and themes for your installation and you can upload and extract new ones using the built-in tools of the File Manager. You may also find our document on <a href="http://docs.reclaimhosting.com/Getting-Started-with-Reclaim-Hosting/Uploading-Files-to-your-Reclaim-Hosting-Account/">using File Manager and other tools for managing files in your account</a> useful.</p>
 
             </div>
           </div>
@@ -216,10 +238,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../../Getting-Started-with-Reclaim-Hosting/Installing-WordPress" class="btn btn-neutral float-right" title="Installing WordPress"/>Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../../WordPress/Custom-Menus" class="btn btn-neutral float-right" title="Custom Menus"/>Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../ID-Protect-FAQ" class="btn btn-neutral" title="ID Protect FAQ"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../../Miscellaneous/What-Exactly-is-a-Web-Application" class="btn btn-neutral" title="What Exactly is a Web Application"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -247,8 +269,8 @@
         
             <a class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
         
-      <span><a href="../ID-Protect-FAQ" style="color: #fcfcfc;">&laquo; Previous</a></span>
-      <span style="margin-left: 15px"><a href="../../Getting-Started-with-Reclaim-Hosting/Installing-WordPress" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../../Miscellaneous/What-Exactly-is-a-Web-Application" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      <span style="margin-left: 15px"><a href="../../WordPress/Custom-Menus" style="color: #fcfcfc">Next &raquo;</a></span>
     </span>
 </div>
 </body>
