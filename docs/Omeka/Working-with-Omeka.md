@@ -1,4 +1,4 @@
-Reclaim Hosting includes an automated installer for Omeka, an open source publishing platform with a focus on collections and repositories. Here are a few tips and tricks that can help make sure you get the most out of the software.
+[Reclaim Hosting](https://reclaimhosting.com) includes an automated installer for [Omeka](http://omeka.org/), an open source publishing platform with a focus on collections and repositories. Here are a few tips and tricks that can help make sure you get the most out of the software.
 
 ###ImageMagick
 
@@ -12,7 +12,7 @@ Some plugins may need to execute code using the command-line version of PHP. If 
 
 ###Uploading Plugins and Themes
 
-Omeka provides a variety of open source themes and plugins on our website available for download, however there is no automated process for loading them into your Omeka installation from the admin interface at this time. Here's how to makes plugins and themes available to your installation.
+Omeka provides a variety of [open source themes and plugins on their website](http://omeka.org/add-ons/) available for download, however there is no automated process for loading them into your Omeka installation from the admin interface at this time. Here's how to makes plugins and themes available to your installation.
 
 Login to Reclaim Hosting and navigate to your cPanel via the menu
 
