@@ -1,5 +1,6 @@
 #Subdomains and Subfolders
 
+![image](http://i.imgur.com/vYhXFGf.png)
 
 When you're first getting started with your domain, you might think of yourself as owning a small "territory" of the Web. Everything you place in your public folder on the server becomes available for anyone on the Web to see. 
 
@@ -37,3 +38,5 @@ There is one particular issue you need to be aware of. Let's say you've installe
   * **Subfolders** don't create as pretty URLs as subdomains, but they're easier to set up. They can, however, result in conflicts with existing Web pages. 
   * As soon as you create subdomains or subfolders to organize your site, you need to consider how people are going to find them. If you've created a new primary blog at **blog.yourdomain.com**, and someone goes to just **yourdomain.com**, they won't see that new site. It is possible to set up a redirect to avoid this issue or you can also always create links from pages on one subdomain of your site to another. 
   * If you really just need one site, sometimes installing at the root of your domain is the easiest thing to do, at least as you're getting started. You can always add more pieces to your territory later with either subdomains or subfolders.
+  
+<meta property="st:image" content="http://i.imgur.com/vYhXFGf.png">
