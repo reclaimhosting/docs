@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Can I Upgrade my Account Later - Reclaim Hosting Documentation</title>
+  <title>Backing up your site - Reclaim Hosting Documentation</title>
   
 
   
@@ -84,12 +84,31 @@
         
         <span>FAQ</span>
             
+                <li class="toctree-l1 ">
+                    <a class="" href="../7-Day-Trial">7 Day Trial</a>
+                    
+                </li>
+            
                 <li class="toctree-l1 current">
-                    <a class="current" href=".">Can I Upgrade my Account Later</a>
+                    <a class="current" href=".">Backing up your site</a>
                     
                         <ul>
                         
+                            <li class="toctree-l2"><a href="#on-demand-backups">On-demand backups</a></li>
+                            
+                        
+                            <li class="toctree-l2"><a href="#installatron-backups">Installatron backups</a></li>
+                            
+                        
+                            <li class="toctree-l2"><a href="#automated-offsite-backups">Automated Offsite Backups</a></li>
+                            
+                        
                         </ul>
+                    
+                </li>
+            
+                <li class="toctree-l1 ">
+                    <a class="" href="../Can-I-Upgrade:Downgrade-my-Account-Later?">Can I Upgrade:Downgrade my Account Later?</a>
                     
                 </li>
             
@@ -220,7 +239,7 @@
           <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../..">Docs</a> &raquo;</li>
-    <li>Can I Upgrade my Account Later</li>
+    <li>Backing up your site</li>
       <li class="wy-breadcrumbs-aside">
         
           
@@ -233,9 +252,35 @@
 </div>
           <div role="main">
             <div class="section">
-              <p>Absolutely! Start small and if you need to you can upgrade later. You'll be pro-rated the difference between the two plans based on where in the billing cycle your account falls. To upgrade your account click <strong>Active Accounts</strong> and then click the dropdown and select <strong>Upgrade/Downgrade</strong> to change your hosting plan.</p>
-<p><img alt="image" src="http://i.imgur.com/zHQFz4d.png" /></p>
-<p><meta property="st:image" content="http://i.imgur.com/zHQFz4d.png"></p>
+              <p>Backing up your website allows you to create and design without fear of accidentally clicking the wrong button and losing your content. Reclaim Hosting supports a few different ways to do this: </p>
+<h4 id="on-demand-backups">On-demand backups</h4>
+<p>Directly in cPanel you have the option of generating a Full backup of your entire cPanel account (great for migrating to another service) or just your Home directory or databases. </p>
+<ul>
+<li>Great option for getting a copy of your stuff as an export</li>
+<li>Manual solution that quickly may become out of date</li>
+</ul>
+<h4 id="installatron-backups">Installatron backups</h4>
+<p>A large majority of our users make use of our automated installer in cPanel powered by Installatron to install WordPress, Omeka, and a host of other software. We often provide custom software packages through this plugin that aren’t typically easy to install on your own.</p>
+<ul>
+<li>Fast &amp; simple</li>
+<li>Automated backup solution built in (You can choose whether to have a software backup on a scheduled basis, and/or any time there is an upgrade)</li>
+<li>Backups can be stored in a separate FTP location, or even somewhere like dropbox</li>
+<li>Choose the same location or different site to restore a backup </li>
+<li>Backup includes all files and folders as well as the database for the install to get you back up and running quickly
+<br><br></li>
+</ul>
+<p>The options mentioned above work just fine and offer security for the content you publish at Reclaim Hosting. However, they aren't your <em>only</em> options. On-Demand Backups and Installatron Backups don't allow you to quickly restore a single file or folder that may have been deleted or overwritten. Instead, you'd have to unpack a full backup to find what you were looking for. </p>
+<p>These backup solutions also default to storing the backups directly on the server which eats up your server space, and more importantly, is an insecure method of backing up content. Ideally you’d have a replicated copy of your stuff in an external location in case of larger issues with our datacenter or hardware that render the existing content inaccessible.</p>
+<p><em>Find the solution to these issues below</em>:</p>
+<h4 id="automated-offsite-backups">Automated Offsite Backups</h4>
+<p>Powered by R1Soft, we have now rolled out an off-site automated backup solution to all users that will capture a copy of all files and databases every day at noon and give you the power to restore them at a granular level directly from within cPanel. And best of all, this comes free of charge as a part of your account with us. Here’s how it works:</p>
+<p>Directly from within cPanel you will find the R1Soft Backup Manager in the Files area. When you select it that will automatically redirect you to the offsite storage container for your content and log you in.</p>
+<p><img alt="Backing up your data" src="http://i1071.photobucket.com/albums/u516/Brumface/Screen%20Shot%202015-08-08%20at%2011.50.57%20AM_zpspn8kvpzl.png" /></p>
+<p>From there you will find several backups available to choose from. At this time you have chosen to store the last 10 days of your content. You can choose to either browse the folders within a particular backup to select specific content, browse your databases, download a full copy of the backup, or in extreme circumstances you can push a restoration of the entire backup back to your hosting account to revert every change that was made since the backup was created.</p>
+<p><img alt="Recovery Points" src="http://i1071.photobucket.com/albums/u516/Brumface/Screen%20Shot%202015-08-08%20at%201.09.52%20PM_zpsuuu3mbdk.png" /></p>
+<p>When browsing the contents of a backup you can granularly select specific files and folders that you want to recover. From the top menu you will have the option of either downloading a backup of the selected items, or restore those items back to your hosting account which will automatically push the items right back to your account and bring them online.</p>
+<p><img alt="Browse Recovery Point" src="http://i1071.photobucket.com/albums/u516/Brumface/Screen%20Shot%202015-08-08%20at%201.10.09%20PM_zpsu5jzcakq.png" /></p>
+<p>Automated offsite backups are available immediately in all accounts and provided free of charge to all of our customers.</p>
 
             </div>
           </div>
@@ -243,10 +288,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../How-do-I-Cancel-my-Account" class="btn btn-neutral float-right" title="How do I Cancel my Account"/>Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../Can-I-Upgrade:Downgrade-my-Account-Later?" class="btn btn-neutral float-right" title="Can I Upgrade:Downgrade my Account Later?"/>Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../../Domain-Management/Subdomains-and-Subfolders" class="btn btn-neutral" title="Subdomains and Subfolders"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../7-Day-Trial" class="btn btn-neutral" title="7 Day Trial"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -283,8 +328,8 @@
         
             <a class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
         
-      <span><a href="../../Domain-Management/Subdomains-and-Subfolders" style="color: #fcfcfc;">&laquo; Previous</a></span>
-      <span style="margin-left: 15px"><a href="../How-do-I-Cancel-my-Account" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../7-Day-Trial" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      <span style="margin-left: 15px"><a href="../Can-I-Upgrade:Downgrade-my-Account-Later?" style="color: #fcfcfc">Next &raquo;</a></span>
     </span>
 </div>
 </body>
