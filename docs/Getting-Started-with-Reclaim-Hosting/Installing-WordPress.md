@@ -1,10 +1,10 @@
-WordPress is by far the most popular software to drive new websites on Reclaim Hosting and for good reason, it powers over 25% of all websites on the internet and remains a solid platform for building out a space on the web. Reclaim Hosting provides you with an automated installer for WordPress making it dead simple to get a site up and running. Here's how to get started:
+WordPress is by far the most popular software to drive new websites on Reclaim Hosting and for good reason, it powers over 25% of all websites on the internet and remains a solid platform for building out a space on the web. Reclaim Hosting provides you with an automated installer for WordPress, making it dead simple to get a site up and running. Here's how to get started:
 
-To begin, login to the client area at [https://portal.reclaimhosting.com](https://portal.reclaimhosting.com) with your email address and the password you set during the order process.
+To begin, log in to the client area at [https://portal.reclaimhosting.com](https://portal.reclaimhosting.com) with your email address and the password you set during the order process.
 
 ![image](http://i.imgur.com/078MlRC.png)
 
-Your client area provides a dashboard access to account information, latest news, invoices, and access to cPanel (the control panel for your hosting account). Click cPanel to access your hosting account tools.
+Your client area provides a dashboard to access account information, latest news, invoices, and access to cPanel (the control panel for your hosting account). Click cPanel to access your hosting account tools.
 
 ![image](http://i.imgur.com/D5ub8iv.png)
 
@@ -12,7 +12,7 @@ You'll find a variety of tools at your disposal in the cPanel interface. For now
 
 ![image](http://i.imgur.com/byE43gg.png)
 
-Click Install this application to begin the process of setting up a WordPress site on your domain.
+Click "Install this application" to begin the process of setting up a WordPress site on your domain.
 
 ![image](http://i.imgur.com/kSeeUq0.png)
 
