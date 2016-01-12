@@ -7,7 +7,7 @@ In addition to allowing you to more flexibly organize the pages on your site, Cu
 There are two primary components to building a Custom Menu:
 
 1. You must designated and organize the links you want to be in your menu.
-2. You must "place" the menu somewhere in your theme. Most themes will have at least one Custom Menu built into their design. Some may have several areas designated for Custom Menus. Older themes may not use Custom Menus at all; for these you will have to rely on the default menus created by the them based on your site's content.
+2. You must "place" the menu somewhere in your theme. Most themes will have at least one Custom Menu built into their design. Some may have several areas designated for Custom Menus. Older themes may not use Custom Menus at all; for these you will have to rely on the default menus created by the theme based on your site's content.
 
 
 ###Building Your Custom Menu
@@ -24,9 +24,9 @@ You'll now be presented with a screen that includes a section titled **Menu Sett
 
 ![image](http://i.imgur.com/AabhESA.jpg)
 
-Now that you've set up your menu and assigned it to a location, you can begin to add links to it. On the left-hand side of the screen, you'll see what content is available to add. On the right-hand side of the screen, in the **Menu Structure** area, you can arrange and organize your links.
+Now that you've set up your menu and assigned it to a location, you can begin adding links to it. On the left-hand side of the screen, you'll see what content is available to add. On the right-hand side of the screen, in the **Menu Structure** area, you can arrange and organize your links.
 
-By default, you may not see everything that is available to you to add to your menu. For example, posts can be added to menus, but they're not usually displayed by default. To make more content available, click the **Screen Options** tab at the top of your WordPress screen, and then click off the check boxes that correspond to additional content.
+By default, you may not see everything that is available to add to your menu. For example, posts can be added to menus, but they're not usually displayed by default. To make more content available, click the **Screen Options** tab at the top of your WordPress screen, and then click off the check boxes that correspond to additional content.
 
 ![image](http://i.imgur.com/DFGw89j.jpg)
 
