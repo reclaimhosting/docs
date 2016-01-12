@@ -6,7 +6,7 @@ Understanding the basics of your Client Area is essential having a pleasant expe
 
 ![Client Area](http://i1071.photobucket.com/albums/u516/Brumface/f4149616-8704-42e3-b83e-66fcaa1902b0_zps5gx7nr8x.png)
 
-Before our Reclaim Hosting Client Area, you would need one password to sign up, another to login to cPanel, and then more passwords when you installed applications. But now with a single password, you can have access to all of your account information & billing, as well as your cPanel.
+Before our Reclaim Hosting Client Area, you would need one password to sign up, another to logi   n to cPanel, and then more passwords when you installed applications. But now with a single password, you can have access to all of your account information & billing, as well as your cPanel.
 
 When you log into your [client area](https://portal.reclaimhosting.com/clientarea.php) through the Reclaim Hosting website, you'll be starting on the **Home** tab. This is where you can see your active domains, invoices, support tickets, and personal account information at a glance.
 
@@ -22,7 +22,7 @@ You can **View Details** to see your account details, change the password for yo
 
 ##### cPanel
 
-Next to the **Accounts** tab, you'll see a tab on the navigation bar labeled cPanel. Your **cPanel** is your control panel that lets you easily access and manage the files and applications of your account. For users with more than one hosting account, the menu item will convert to a dropdown menu so you have access to every cPanel area you’re a user on from one screen. Read below to understand the basics of your cPanel dashboard.
+Next to the **Accounts** tab, you'll see a tab on the navigation bar labeled cPanel. Your **cPanel** is your control panel to you easily access and manage the files and applications of your account. For users with more than one hosting account, the menu item will convert to a dropdown menu to give you access to all of your cPanel areas from one screen. Read below to understand the basics of your cPanel dashboard.
 
 ##### Web Applications
 
@@ -32,7 +32,7 @@ Every users' cPanel will look a tad different depending on what applications you
 
 ##### Domains
 
-The Domains section of cPanel allows you to manage your addon domains, [subdomains](http://docs.reclaimhosting.com/Domain-Management/Subdomains-and-Subfolders/#subdomains), aliases, and redirected domains. Additionally, you can use the Simple Zone Editor and Advanced Zone Editor to map different parts of your domain on different services. 
+The Domains section of cPanel allows you to manage your addon domains, [subdomains](http://docs.reclaimhosting.com/Domain-Management/Subdomains-and-Subfolders/#subdomains), aliases, and redirected domains. Additionally, you can use the Simple Zone Editor and Advanced Zone Editor to map different parts of your domain to different services. 
 
 ![Domains](http://i1071.photobucket.com/albums/u516/Brumface/5ec6707d-8e9f-40a1-a273-887f88f67f2e_zps9m7xajq5.png)
 
@@ -47,11 +47,11 @@ The Files section in cPanel includes the following tools - File Manager, Images,
 
 ![Files](http://i1071.photobucket.com/albums/u516/Brumface/ce307411-f600-4202-b78a-51cfeb530c15_zps86mr2fup.png) 
 
-- **File Manager** allows you to manage all files connected to your account, including renaming, uploading, and deleting them. You can also get to your file manager using the the *Quick Links* section at the top left of your cPanel.
+- **File Manager** allows you to manage all files connected to your account, including renaming, uploading, and deleting them. You can also get to your file manager using the *Quick Links* section at the top left of your cPanel.
 - **Images** lets your manage images that have been previously saved to your account. Check out a cPanel documentation article on that [here](https://documentation.cpanel.net/display/PLD/Images).
 - **Directory Privacy** allows you to set a password to protect certain directories of your account.
 - **Disk Usage** helps you monitor your account's available space.
-- **File Transfer Protocol** (FTP) is a fast and convenient way to transfer large files online.
+- **File Transfer Protocol** (FTP) is a fast and convenient way to transfer large files online. We have a tutorial on FTP [here](http://docs.reclaimhosting.com/Miscellaneous/FTP-File-Transfer-Protocol/).
 
 ##### Email
 
@@ -59,28 +59,28 @@ The Email section in cPanel allows you to do many different tasks with email acc
 
 ![Email](http://i1071.photobucket.com/albums/u516/Brumface/6591de37-b666-48b2-b868-8a0e1b16a303_zpsmtqlwhvq.png)
 
-- **Accounts**: allows you to create e-mail accounts, as well as pick your passwords for them. You can manage e-mail accounts separately for a specific domain.
+- **Accounts**: allows you to create e-mail accounts, as well as pick your passwords for them. You can manage e-mail accounts separately for a each domain.
 - **Forwarders**:  this allows you to send a copy of any incoming email from one address to another so that you only have one inbox to check. You can also use this section to forward all email accounts from one domain to another. 
 - **MX Entry**: allows you to reroute a domain's incoming mail to a specific server; this is used to create a backup mail exchanger to take care of email in case a server fails. 
 - **Default Address**: this feature will "catch" emails that are sent to an invalid email address for your domain.
 - **AutoResponders**: Set up an email account to send automated emails.
 - **Mailing Lists**: Creating a mailing list allows you to use a single address to send an email to multiple addresses.
 - **Track Delivery**: Exactly what it sounds like; track the delivery route of a specific email.
-- **Global Filters**: This interface allows you to create and manage your server filters all of the email that your domains' email accounts receive.
-- **User Filters**: Create and manage email filters for an email address to avoid spam and redirect mail.
+- **Global Filters**: This interface allows you to create and manage your server filters for all of the email that your domains' email accounts receive.
+- **User Filters**: Create and manage email filters for individual email addressed to avoid spam and redirect mail.
 - **Authentication**: Helps prevent spam so incoming and outcoming messages can be detected with verifiable information.
 - **Address Importer**: Allows you to create multiple email addresses or forwarders for your account. These can be imported on a CSV or XLS file from your computer.
 - **Apache SpamAssassin**: is a filter that identifies spam by using a range of tests with statistical methods.
-- **BoxTrapper**:protects your inbox from spam by requiring all email senders not on your Whitelist to reply to a verification email before you can receive their mail. 
+- **BoxTrapper**: protects your inbox from spam by requiring all email senders not on your Whitelist to reply to a verification email before you can receive their mail. 
 
 ##### Databases
 
-The Databases section allows you to create MySQL and PostgreSQL databases and users, and to  modify and access to them. SQL stands for **Structured Query Language**. SQL is an international standard in querying and retrieving information from databases. PostgreSQL is an object-relational database management system. There are several tools in the cPanel Database section:
+The Databases section allows you to create MySQL and PostgreSQL databases and users, and to modify and access to them. SQL stands for **Structured Query Language**. SQL is an international standard in querying and retrieving information from databases. PostgreSQL is an object-relational database management system. There are several tools in the cPanel Database section:
 
 ![Databases](http://i1071.photobucket.com/albums/u516/Brumface/044235dc-484e-4f5c-be9d-1adefd145e1e_zpsxovjasdc.png)
 
-- **phpMyAdmin**: manages a single database as well as a whole MySQL server. See more about the supported features of phpMyAdmin [here](http://cpanel.huskerdu.reclaimhosting.com/cpsess1679149195/3rdparty/phpMyAdmin/doc/html/intro.html).
-- **MySQL Database** & **MySQL Database Wizard**: allows you to store and manage large amounts of information over the web; these are essential to running web-based applications, for example: bulletin boards, content management systems, and online shopping carts. The Wizard guides you through the setup of a MySQL database and user privileges.
+- **phpMyAdmin**: manage a single database as well as a whole MySQL server. See more about the supported features of phpMyAdmin [here](http://cpanel.huskerdu.reclaimhosting.com/cpsess1679149195/3rdparty/phpMyAdmin/doc/html/intro.html).
+- **MySQL Database** & **MySQL Database Wizard**: allows you to store and manage large amounts of information over the web; these are essential to running web-based applications like bulletin boards, content management systems, and online shopping carts. The Wizard guides you through setting up a MySQL database and user privileges.
 - **Remote MySQL**: You can use this to add a specific domain name so visitors can connect to your MySQL databases.
 
 ##### Metrics
@@ -101,7 +101,7 @@ cPanel offers a number of different monitoring and statistic tools to help you a
 
 ##### Security
 
-cPanel has an entire security section devoted to protecting different parts of customer web sites from the unauthorized access of their viewers. The cPanel Security section includes SSH Access, IP Blocker, SSL/TLS, Hotlink Protection, Leech Protection and ModSecurity.
+cPanel has an entire security section devoted to protecting different parts of customer web sites from unauthorized access. The cPanel Security section includes SSH Access, IP Blocker, SSL/TLS, Hotlink Protection, Leech Protection and ModSecurity.
 
 ![Security](http://i1071.photobucket.com/albums/u516/Brumface/addfece4-8eac-4b33-8536-2ff50c39b76e_zpsc0dtd3ls.png)
 
@@ -131,8 +131,8 @@ The Advanced Section is located at the very end of your cPanel dashboard. Check 
 
 - **Cron Jobs**: allow you to automate certain commands or scripts on your site. For instance, you can schedule a command or script to run at a specific time every week to delete temporary files.
 - **Track DNS**: this allows you to find out information about any domain; trace the route from the server to your computer, for example. This can be helpful to make sure your DNS is set up properly.
-- **Indexes**: This manager customizes the way a directory can be seen (or not seen) online. 
-- **Error Pages**: In two simple steps, you can select the domain you wish to work with, and then create/edit error pages for that site that viewers will see. 
+- **Indexes**: this manager customizes the way a directory can be seen (or not seen) online. 
+- **Error Pages**: in two simple steps, you can select the domain you wish to work with, and then create/edit error pages for that site that viewers will see. 
 - **Apache Handlers**: controls how the Apache web server software manages certain file types and extensions for your site.
 - **MIME Types**: tell browsers how to handle different file extensions.
 - **Virus Scanner**: is essentially what it sounds like; start a new virus scan in Mail, Entire Home DIrectory, Public Web Space or Public FTP space.
