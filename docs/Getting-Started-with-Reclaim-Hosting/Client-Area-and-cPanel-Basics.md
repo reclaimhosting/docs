@@ -6,7 +6,7 @@ Understanding the basics of your Client Area is essential having a pleasant expe
 
 ![Client Area](http://i1071.photobucket.com/albums/u516/Brumface/f4149616-8704-42e3-b83e-66fcaa1902b0_zps5gx7nr8x.png)
 
-Before our Reclaim Hosting Client Area, you would need one password to sign up, another to logi   n to cPanel, and then more passwords when you installed applications. But now with a single password, you can have access to all of your account information & billing, as well as your cPanel.
+Before our Reclaim Hosting Client Area, you would need one password to sign up, another to log in to cPanel, and then more passwords when you installed applications. But now with a single password, you can have access to all of your account information & billing, as well as your cPanel.
 
 When you log into your [client area](https://portal.reclaimhosting.com/clientarea.php) through the Reclaim Hosting website, you'll be starting on the **Home** tab. This is where you can see your active domains, invoices, support tickets, and personal account information at a glance.
 
