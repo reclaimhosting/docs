@@ -1,4 +1,4 @@
-In the most general terms, a Web application is a piece of software that runs on a Web server. A Web server is a just a specialized computer designed to host Web pages.
+In the most general terms, a Web application is a piece of software that runs on a Web server. A Web server is a just a computer that has been dedicated and specially configured to host Web pages.
 
 Most Web applications are comprised of two components: files and a database. When you install a Web application, you will need to make sure all of the files are copied over into the appropriate location AND that a database (and database user) has been set up to connect to those files. Often, you will have to do some configuration to make sure the application knows how to access the database.
 
