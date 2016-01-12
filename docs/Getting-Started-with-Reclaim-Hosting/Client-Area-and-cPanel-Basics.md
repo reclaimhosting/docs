@@ -59,7 +59,7 @@ The Email section in cPanel allows you to do many different tasks with email acc
 
 ![Email](http://i1071.photobucket.com/albums/u516/Brumface/6591de37-b666-48b2-b868-8a0e1b16a303_zpsmtqlwhvq.png)
 
-- **Accounts**: allows you to create e-mail accounts, as well as pick your passwords for them. You can manage e-mail accounts separately for a each domain.
+- **Accounts**: allows you to create e-mail accounts, as well as pick your passwords for them. You can manage e-mail accounts separately for each domain.
 - **Forwarders**:  this allows you to send a copy of any incoming email from one address to another so that you only have one inbox to check. You can also use this section to forward all email accounts from one domain to another. 
 - **MX Entry**: allows you to reroute a domain's incoming mail to a specific server; this is used to create a backup mail exchanger to take care of email in case a server fails. 
 - **Default Address**: this feature will "catch" emails that are sent to an invalid email address for your domain.
