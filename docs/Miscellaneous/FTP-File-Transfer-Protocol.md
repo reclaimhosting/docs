@@ -8,7 +8,7 @@ To establish an FTP connection, you'll need to create an FTP account to which yo
 
 ![FTP Accounts Icon](http://i1071.photobucket.com/albums/u516/Brumface/Screen%20Shot%202015-08-26%20at%2011.31.59%20AM_zps2jgsempi.png)
 
-Use you cPanel account's username and password to log in to FTP. If you're not sure where to find your cPanel password, click [here](http://docs.reclaimhosting.com/FAQ/I-can't-remember-my-password./#ftp-cpanel-password).
+Use you cPanel account's username and password to log in to FTP. If you're not sure where to find your cPanel password, click [here](http://docs.reclaimhosting.com/FAQ/I-Cant-Remember-My-Password/#ftp-cpanel-password).
 
 After putting your username and password into the designated areas, you'll want to erase your login information from the directory box so it looks like this:
 
