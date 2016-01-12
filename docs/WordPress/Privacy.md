@@ -10,9 +10,9 @@ Navigate to **Settings > Reading**.
 
 ![image](http://i.imgur.com/SD0O3UD.jpg)
 
-Normally the box next to **Search Engine Visibility** is unchecked. If you decide to check the box, it will "Discourage search engines from indexing this site." It will depend on the search engine to honor your "request". Some search engines will simply ignore it. Obviously this is not a sure-fire way of keeping your blog private.
+Normally the box next to **Search Engine Visibility** is unchecked. If you decide to check the box, it will "Discourage search engines from indexing this site." This option depends on the search engine to honor your "request" and some search engines will simply ignore it. Obviously this is not a sure-fire way of keeping your blog private.
 
-You also have options on individual posts to keep them private, so that only people who are logged in to your site can view a given post. You can also password protect posts with a password you supply. Choose the **Private** radio button to keep a post hidden behind the login, or choose the **Password protected** button and then type in the password you wish to use. Click on **OK** when you are finished. Then be sure you click the **Update** button to save your post with the new settings.
+You also have options to control who see individual posts on your site. These options are more reliable but require you to set them on each post. When editing a post you can either mark it as **Private**, which will only let people who are logged in to your site view that post, or you can choose the **Password protected** button and then type in the password you wish to use. Setting posts **Password protected** allows you to share a post with anyone you give the password to without requiring them to have an account on your site first. Click on **OK** after changing this setting. Then be sure you click the **Update** button to save your post with the new settings.
 
 ![image](http://i.imgur.com/Yf7tbeV.jpg)
 
