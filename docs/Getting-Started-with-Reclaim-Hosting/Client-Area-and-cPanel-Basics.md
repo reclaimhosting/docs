@@ -22,7 +22,7 @@ You can **View Details** to see your account details, change the password for yo
 
 ##### cPanel
 
-Next to the **Accounts** tab, you'll see a tab on the navigation bar labeled cPanel. Your **cPanel** is your control panel to you easily access and manage the files and applications of your account. For users with more than one hosting account, the menu item will convert to a dropdown menu to give you access to all of your cPanel areas from one screen. Read below to understand the basics of your cPanel dashboard.
+Next to the **Accounts** tab, you'll see a tab on the navigation bar labeled cPanel. Your **cPanel** is your control panel to easily access and manage the files and applications of your account. For users with more than one hosting account, the menu item will convert to a dropdown menu to give you access to all of your cPanel areas from one screen. Read below to understand the basics of your cPanel dashboard.
 
 ##### Web Applications
 
@@ -59,19 +59,19 @@ The Email section in cPanel allows you to do many different tasks with email acc
 
 ![Email](http://i1071.photobucket.com/albums/u516/Brumface/6591de37-b666-48b2-b868-8a0e1b16a303_zpsmtqlwhvq.png)
 
-- **Accounts**: allows you to create e-mail accounts, as well as pick your passwords for them. You can manage e-mail accounts separately for each domain.
-- **Forwarders**:  this allows you to send a copy of any incoming email from one address to another so that you only have one inbox to check. You can also use this section to forward all email accounts from one domain to another. 
-- **MX Entry**: allows you to reroute a domain's incoming mail to a specific server; this is used to create a backup mail exchanger to take care of email in case a server fails. 
-- **Default Address**: this feature will "catch" emails that are sent to an invalid email address for your domain.
+- **Accounts**: Allows you to create e-mail accounts, as well as pick your passwords for them. You can manage e-mail accounts separately for each domain.
+- **Forwarders**: This allows you to send a copy of any incoming email from one address to another so that you only have one inbox to check. You can also use this section to forward all email accounts from one domain to another. 
+- **MX Entry**: Allows you to reroute a domain's incoming mail to a specific server; this is used to create a backup mail exchanger to take care of email in case a server fails. 
+- **Default Address**: This feature will "catch" emails that are sent to an invalid email address for your domain.
 - **AutoResponders**: Set up an email account to send automated emails.
 - **Mailing Lists**: Creating a mailing list allows you to use a single address to send an email to multiple addresses.
 - **Track Delivery**: Exactly what it sounds like; track the delivery route of a specific email.
 - **Global Filters**: This interface allows you to create and manage your server filters for all of the email that your domains' email accounts receive.
-- **User Filters**: Create and manage email filters for individual email addressed to avoid spam and redirect mail.
+- **User Filters**: Create and manage email filters for individual email addresses to avoid spam and redirect mail.
 - **Authentication**: Helps prevent spam so incoming and outcoming messages can be detected with verifiable information.
 - **Address Importer**: Allows you to create multiple email addresses or forwarders for your account. These can be imported on a CSV or XLS file from your computer.
 - **Apache SpamAssassin**: is a filter that identifies spam by using a range of tests with statistical methods.
-- **BoxTrapper**: protects your inbox from spam by requiring all email senders not on your Whitelist to reply to a verification email before you can receive their mail. 
+- **BoxTrapper**: Protects your inbox from spam by requiring all email senders not on your Whitelist to reply to a verification email before you can receive their mail. 
 
 ##### Databases
 
