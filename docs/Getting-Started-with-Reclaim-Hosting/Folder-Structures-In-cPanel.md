@@ -9,11 +9,11 @@ Your account will typically be provisioned on the server under the **/home/usern
 *  **application_backups** - Any locally stored backups from Installatron will be stored here.
 *  **logs** - An archive of Apache access logs for your domain.
 *  **mail** - You guessed it, email to local email accounts on your domain is stored here.
-*  **public_ftp** - This folder is not often used except for instances where you need a space to allow an FTP users to upload files that aren't immediately public.
+*  **public_ftp** - This folder is not often used except for instances where you need a space to allow FTP users to upload files that aren't immediately public.
 *  **public_html** - This is where the magic happens. This folder is the main folder for your domain that is accessible to the web. Files uploaded to this folder will be visible on your main cPanel domain.
 *  **tmp** - Temporary uploads and statistics information is stored here.
 
-So as you can see when uploading files to your account you'll likely want them to be in public\_html in order to be accessible on the web. So if a file **image.jpg** is uploaded there it's available at **yourdomain.com/image.jpg**. Likewise if you create a folder inside of public_html and add the same image there it would be accessible at **yourdomain.com/foldername/image.jpg**. 
+As you can see, when uploading files to your account you'll likely want them to be in public\_html in order to be accessible on the web. So if a file **image.jpg** is uploaded there it will be available at **yourdomain.com/image.jpg**. Likewise, if you create a folder inside of public_html and add the same image there it would be accessible at **yourdomain.com/foldername/image.jpg**. 
 
 ###Subdomains
 
@@ -23,4 +23,4 @@ You can create subdomains in your cPanel account under the Domains > Subdomains 
 
 ###Addon Domains
 
-It is possible that you purchased a second or third domain and want to add it to your cPanel account. The interface for this is in cPanel under Domains > Addon Domains and is similar to the Subdomain interface in that cPanel will also create a Document Root for the domain (typically based on the name of the domain) inside the public\_html folder. So if I add **newdomain.com** as an Addon Domain cPanel will create a folder named **newdomain.com** inside of public_html where I can now place files I want to host at that domain. Once a domain is added in Addon Domains it becomes available throughout cPanel for use, however the domain must be registered first either by Reclaim Hosting or with another domain registrar and the [nameservers](http://docs.reclaimhosting.com/Miscellaneous/Nameservers/) must point to Reclaim Hosting.
+It is possible that you purchased a second or third domain and want to add it to your cPanel account. The interface for this is in cPanel under Domains > Addon Domains and is similar to the Subdomain interface in that cPanel will also create a Document Root for the domain (typically based on the name of the domain) inside the public\_html folder. So if I add **newdomain.com** as an Addon Domain, cPanel will create a folder named **newdomain.com** inside of public_html where I can now place files I want to host at that domain. Once a domain is added in Addon Domains it becomes available throughout cPanel for use, however the domain must be registered first either by Reclaim Hosting or with another domain registrar and the [nameservers](http://docs.reclaimhosting.com/Miscellaneous/Nameservers/) must point to Reclaim Hosting.
