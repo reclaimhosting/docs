@@ -4,7 +4,7 @@ Domains registered with or hosted by Reclaim Hosting use the following nameserve
 > 
 > **ns2.reclaimhosting.com - 192.241.163.159**
 
-If your domain is registered with Reclaim Hosting however you wish to manage DNS records **independently of cPanel**, the following nameservers are used:
+If your domain is registered with Reclaim Hosting but you wish to manage DNS records **independently of cPanel**, the following nameservers are used:
 
 > **ns3.reclaimhosting.com - 50.23.136.229**
 > 
