@@ -1,7 +1,6 @@
 ![image](https://reclaimhosting.com/images/rhlogo.png)
 # Documentation for Reclaim Hosting
-All documents published by [Reclaim Hosting](https://reclaimhosting.com) are provided with an open source license as Markdown files. We welcome contributions in the form of pull requests. Please read [Guidelines to Contributing](http://docs.reclaimhosting.com/Guidelines-to-Contributing/) for more information on the structure and format of these files and how to offer contributions.
-
+All documents published by [Reclaim Hosting](https://reclaimhosting.com) are provided with an open source license as Markdown files. We welcome contributions in the form of pull requests.
 ```
 The MIT License (MIT)
 

@@ -1,7 +1,0 @@
-site_name: Reclaim Hosting Documentation
-site_url: http://docs.reclaimhosting.com
-site_description: All documents published by Reclaim Hosting are provided with an open source license as Markdown files. We welcome contributions in the form of pull requests.
-site_author: Reclaim Hosting
-repo_url: https://github.com/reclaimhosting/docs/
-theme: readthedocs
-theme_dir: "theme"
