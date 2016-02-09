@@ -1,5 +1,5 @@
 ---
-title: 'Posts v/s Pages'
+title: 'Posts and Pages'
 taxonomy:
     category:
         - docs
