@@ -5,8 +5,8 @@ taxonomy:
         - docs
 ---
 
-###Verification Link Email
-<br />
+##### Verification Link Email
+
 When you first sign up for your Reclaim Hosting account, you will see the following warning before entering your contact details:
 
 ```
@@ -17,7 +17,6 @@ We highly recommend that you use a personal email account, such as Gmail, in ord
 
 One of the emails that will be sent to you contains a **verification link to verify your email address**. It will look something like this:
 
-<br />
 ![verification email](http://i1071.photobucket.com/albums/u516/Brumface/2757b579-6909-4da1-a079-93fba3bbe48a_zpsunmxnnox.png)
 
 Until this is done you will see a yellow **warning** banner at the top of your Client Area homepage: 
@@ -42,8 +41,6 @@ If you still aren't receiving the email, contact support with a personal email a
 If you've waited for your account to be suspended before taking care of this, no worries. Your website content hasn't disappeared, you just wont be able to access it until you verify your email address.
 
 #####I just verified my email address, but I'm still not seeing my website content. 
-This is to be expected. Because your domain was suspended, it could take up to a few hours to get everything working again. 
-
-<br />
+This is to be expected. Because your domain was suspended, it could take up to a few hours to get everything working again.
 
 As always, if you feel like something else may be going on, open a support ticket & let us know! 
