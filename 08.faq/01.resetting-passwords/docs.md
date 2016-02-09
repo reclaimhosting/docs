@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-### I can't remember my password. 
+##### I can't remember my password. 
 
 The hardest part about this is understanding which password you're forgetting/needing to reset. Reclaim Hosting has simplified this process as much as possible by allowing you to access your Client Area and cPanel with one username and password. This way for general logging in purposes, you only really need to remember one set of credentials. 
 
