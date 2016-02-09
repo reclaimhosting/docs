@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-#Installing and Activating WordPress Plugins
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u075nwYCIfQ" frameborder="0" allowfullscreen></iframe>
 <p></p>
 
