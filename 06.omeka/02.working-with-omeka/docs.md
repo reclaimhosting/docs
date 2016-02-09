@@ -29,6 +29,6 @@ Login to Reclaim Hosting and navigate to your cPanel via the menu
 
 In cPanel you'll be using the **File Manager** utility to navigate to the appropriate folder and upload the files.
 
-![image](http://i.imgur.com/01jwC8o.png)
+![image](https://farm2.staticflickr.com/1703/24046258523_799f521bda_m.jpg)
 
 Within the File Manager you can navigate to your Omeka directory where you'll find a plugins and themes folder. Inside of those folders are the plugins and themes for your installation and you can upload and extract new ones using the built-in tools of the File Manager. You may also find our document on [using File Manager and other tools for managing files in your account](http://docs.reclaimhosting.com/Getting-Started-with-Reclaim-Hosting/Uploading-Files-to-your-Reclaim-Hosting-Account/) useful.
