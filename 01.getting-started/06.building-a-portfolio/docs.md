@@ -15,7 +15,8 @@ In order to get a sense of how Reclaim Hosting could provide a portfolio solutio
 
 The following video will demonstrate how easy it is to get up and running with a domain and web hosting on StateU (if you already have an account at Reclaim Hosting you can skip this step and simply [login to your client area](https://portal.reclaimhosting.com).
 
-[![stateusignup](http://imgur.com/8cevHT1.png)](https://vimeo.com/149308067 "Signing-Up At StateU")
+<iframe src="https://player.vimeo.com/video/149308067" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p></p>
 
 Once you have an account on StateU, you’ll see your control panel dashboard, which will look like this:
 
@@ -27,11 +28,13 @@ There are several features in the control panel, and if you want to get a sense 
 
 For the purposes of this quick resource guide, we are going to highlight WordPress given it powers 25% of all sites on the web. Let’s say that again, but this time with feeling, **“25% OF ALL WEBSITES on the INTERNET!”** The 50 second video below provides a quick walk-through of how to install WordPress, and there is also [documentation for installing WordPress](https://staging.reclaimhosting.com/portfolio-resource-guide/installing-wordpress/) if the video is not cutting it.
 
-[![wpinstall](http://imgur.com/Cb2s1b9.png)](https://vimeo.com/149309945 "Installing Wordpress on StateU")
+<iframe src="https://player.vimeo.com/video/149309945" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p></p>
 
 ### Adding WordPress Themes
 
-[![wpthemes](http://imgur.com/AXrgLe4.png)](https://www.youtube.com/watch?v=AL6K_pYdvfU "Adding Wordpress Themes")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AL6K_pYdvfU" frameborder="0" allowfullscreen></iframe>
+<p></p>
 
 A benefit of installing and managing your own WordPress site as a portfolio is the freedom you have to install and customize any theme you’d like. And adding them couldn’t be easier. From your WordPress dashboard click **Appearance > Themes** to view the themes you currently have installed. You can have several different themes installed at the same time and switch between them. Clicking **Add New** will allow you to search and browse the thousands of themes available in the WordPress directory. When you find one that you like go ahead and click Install to add it to your list. You can choose to activate that theme immediately, or you can go back and browse for more themes.
 
@@ -39,7 +42,8 @@ Perhaps you secured a theme from elsewhere on the web and you want to add it to 
 
 ### Installing and Activating WordPress Plugins
 
-[![plugins](http://imgur.com/JkWmxsj.png)](https://www.youtube.com/watch?v=AL6K_pYdvfU "Adding Wordpress Plugins")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u075nwYCIfQ" frameborder="0" allowfullscreen></iframe>
+<p></p>
 
 When building your WordPress-based portfolio you’re not limited to the stock set of tools that come with the software, there’s an entire ecosystem of plugins for you to take advantage of. What are plugins? Plugins for WordPress allow you to add functionality to your site that doesn’t normally come in a standard install. Wanna have all the new posts get sent to Facebook or Twitter? There’s a plugin for that. Wanna build a contact form? Well, there’s a plugin for that.
 
@@ -114,11 +118,11 @@ Other Notes about Menus
 
 ### Uploading and Embedding Media in WordPress
 
-#### Uploading
+##### Uploading
 
 You can upload files into your site’s Media Gallery and then link to them in your posts/pages. This works very well for images, and when you take this approach for images you have the added benefit of being able to make use of WordPress’ built-in editing tools. Also, when you upload images to WordPress, it automatically creates different sizes that you can use, as needed. This approach works less well for video. In order to have your media files actually show up in a “player” (with controls for stopping, pausing, etc.) you’ll need to install a plugin. Otherwise, you’ll only be able to include links to the files. How people view them will depend a bit on the setup on their own computer and in their own browser. They may, for example, have to download the media file and then open it in another program on their computer.
 
-#### Embedding
+##### Embedding
 
 You can embed media from other sites easily in WordPress, the above images and videos are perfect examples of this. Embedding an image just means providing a URL to it’s location elsewhere on the Web. Instead of uploading it to the server, WordPress grabs that image from the external source and displays it on your post/page. However, with this approach you lose your editing capabilities as well as the resizing feature.
 
@@ -127,6 +131,3 @@ Embedding audio and video from external sources becomes easier with every versio
 ### The End is the Beginning
 
 This brief resource guide is focused on just one of many applications you have access to at Reclaim Hosting—albeit by far the most popular. One of the things you will quickly realize about choosing na industry-standard web hosting solution for portfolios on your campus is that it is not a one-size-fits solution. Rather, it provides departments, faculty, and students alike a tool that they can customize to meet their particular needs. What’s more, it foregrounds the act of engaging and thinking critically about how we architect and build spaces for and on the web. In that regard, it is very much a platform for both engagement and reflection that is student-centered and integrated more generally with the process of creating and reflecting that should be at the heart of an education-based portfolio.
-
-
-
