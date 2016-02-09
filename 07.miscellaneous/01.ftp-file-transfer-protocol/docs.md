@@ -13,23 +13,7 @@ By default, all Reclaim Hosting users have a FTP account that's already been cre
 
 ![FTP accounts](https://farm2.staticflickr.com/1689/24046309923_35fec208e3.jpg)
 
-##### FTP Configuration Files
-
-You'll see your unique FTP account, plus other [previous accounts you may have created](http://docs.reclaimhosting.com/miscellaneous/ftp-file-transfer-protocol#creating-another-ftp-account) in the past at the bottom of the *FTP Accounts* page. Click *Configure FTP Client* of the account that you would like to use.
-
-![Configure FTP Client](http://i1071.photobucket.com/albums/u516/Brumface/Screen%20Shot%202015-08-26%20at%2012.09.18%20PM_zpsd4epamz1.png)
-
-From there you will be given a set of choices for which client to use based off the type of computer you have. For purposes of this tutorial, we will be working with Cyberduck which works best with the Mac. 
-
-![Client](http://i1071.photobucket.com/albums/u516/Brumface/86e1ff36-ec8a-47c2-b391-7f96f8f083df_zps0yfgiiyr.png)
-
 **NOTE**: You must have the FTP client that you're working with already installed on your computer before moving forward. If you don't have Cyberduck (or FileZilla or CoreFTP) installed on your computer yet, do this now.
-
-Now that you've installed Cyberduck, it's time to download the FTP Configuration and save it to your desktop. Do this by clicking the **FTP Configuration File** button underneath the Cyberduck icon. 
-
-Next, double-click on the downloaded file, which here is located on the desktop. Cyberduck will open the download file and log you into your FTP account. If Cyberduck doesn't log you in automatically, use your cPanel credentials that you used earlier to create an FTP account. If you're not sure where to find your cPanel password, click [here](http://docs.reclaimhosting.com/faq/resetting-passwords#ftp-cpanel-password).
-
-You now should see all of your website's content in Cyberduck. 
 
 ##### Opening a Connection
 
@@ -77,7 +61,7 @@ If you wish to add another FTP account, start by clicking on the FTP Accounts ic
 
 ![Add FTP Account](https://farm2.staticflickr.com/1644/24725295691_47cb5570d7_z.jpg)
 
-Use your cPanel account username and password to log in to FTP. (Learn how to find your cPanel credentials click [here](http://docs.reclaimhosting.com/faq/resetting-passwords#ftp-cpanel-password).)
+Create a username and password for this FTP account. The username will take the format of an email address (unlike SFTP where just the username is entered, for standard FTP accounts the full address is used)
 
 After putting your username and password into the designated areas, you'll want to erase your login information from the directory box so it looks like this:
 
