@@ -4,13 +4,14 @@ taxonomy:
     category:
         - docs
 ---
+
 From the moment you register a domain with us until well after it has expired your domain goes through several different phases. In this document we'll explain those various phases to give you a better understanding of the domain registration process and lifecycle of a domain.
 
 ##Registration - Day One
 During the checkout process at Reclaim you likely searched for available domains. All domain registrations must be unique. Upon checkout a domain is registered to your account and immediately active for the period registered (usually 1 year unless you chose longer).
 
 ##Verification - 14 Days
-Beginning January 1st, 2014, all registrars have been required to verify the contact information of any domain registrant. This means as soon as a domain is registered you will receive an email with a link to confirm ownership of the domain. The registrar provides a 14 day grace period in which you can verify the domain. You can read more about this process [here](http://docs.reclaimhosting.com/FAQ/Verification_Link_Email/). After 14 days if a domain is not verified it is suspended until the domain is verified by email.
+Beginning January 1st, 2014, all registrars have been required to verify the contact information of any domain registrant. This means as soon as a domain is registered you will receive an email with a link to confirm ownership of the domain. The registrar provides a 14 day grace period in which you can verify the domain. You can read more about this process [here](http://docs.reclaimhosting.com/faq/verification-by-email). After 14 days if a domain is not verified it is suspended until the domain is verified by email.
 
 ##Expiration - 1 Year
 Beginning 30 days before the expiration of your domain (which is typically 1 year after it was registered) you will begin receiving reminder emails that your domain is pending expiration. 3 emails are sent at the 30 day mark, 7 day mark, and upon expiration.

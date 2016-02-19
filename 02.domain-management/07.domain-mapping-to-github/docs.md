@@ -4,11 +4,8 @@ taxonomy:
     category:
         - docs
 ---
-Over the last couple of weeks a number of requests have come in at Reclaim Hosting from folks who what to map their domain (or a subdomain) on another service. [I’ve been writing about domain mapping for years on the bava](http://bavatuesdays.com/?s=domain+mapping), and I never get tired of the magical idea of pointing your domain (or a subdomain) to another service in order to maintain your identity in relationship to a URL rather than a service.
 
-Two sites I have done this for recently are [GitHub](https://github.com) and [Squarespace](https://squarespace.com), so I’ll document the process for these two. There are many more services you can map your domain  to including Tumblr, WordPress.com, Blogger, Wix, Google Sites, etc., but I’ll start with GitHub in this post, SquareSpace in the next, and then try and build out the rest over the next few weeks.
-
-**But first a bit about A Records vs. CNAME Records**
+**A Records vs. CNAME Records**
 
 When you are mapping aa domain on GitHub pages (or on any site really) an important concept you want to try and wrap your head around is the difference between A Records and CNAME Records. I’m getting closer to full comprehension, but a little help never hurts so I took the following definition from [DNS Simple](https://support.dnsimple.com/articles/differences-a-cname-records/):
 

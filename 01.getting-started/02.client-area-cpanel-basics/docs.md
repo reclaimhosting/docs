@@ -25,7 +25,7 @@ If your ever have any questions, open a live chat with a Reclaim Rep by clicking
 
 To the right of the **Home** tab on the navigation bar, you'll see a tab labeled **Accounts**. While you'll get the very basics of your account on the **Home** page, clicking on **My Accounts** will give you a more detailed look into your Reclaim Hosting plan. 
 
-You can **View Details** to see your account details, change the password for your product plan, and manage your account actions. See more on upgrading/downgrading your account [here](http://docs.reclaimhosting.com/FAQ/Can-I-Upgrade-my-Account-Later/), and cancelling your account [here](http://docs.reclaimhosting.com/FAQ/How-do-I-Cancel-my-Account/).
+You can **View Details** to see your account details, change the password for your product plan, and manage your account actions. See more on upgrading/downgrading your account [here](http://docs.reclaimhosting.com/faq/upgrading-and-downgrading), and cancelling your account [here](http://docs.reclaimhosting.com/faq/cancel-your-account).
 
 ##### cPanel
 
@@ -39,15 +39,15 @@ Also note the shortcut links that have been added to the top and side bars for y
 
 ##### Files
 
-The Files section in cPanel includes the following tools - File Manager, Images, Directory Privacy, Disk Usage, Web Disk, FTP accounts, FTP Connections, Backup and Backup Wizard. To truly see the capabilities of these tools, the best advice we can offer is just to click & explore. We have a tutorial specifically for Backups [here](http://docs.reclaimhosting.com/FAQ/Backing%20up%20your%20site/).
+The Files section in cPanel includes the following tools - File Manager, Images, Directory Privacy, Disk Usage, Web Disk, FTP accounts, FTP Connections, Backup and Backup Wizard. To truly see the capabilities of these tools, the best advice we can offer is just to click & explore. We have a tutorial specifically for Backups [here](http://docs.reclaimhosting.com/faq/backing-up-your-site).
 
 ![Files](https://farm2.staticflickr.com/1642/24671562235_3051e5e0a6_c.jpg) 
 
 - **File Manager** allows you to manage all files connected to your account, including renaming, uploading, and deleting them. You can also get to your file manager using the *Quick Links* section at the top left of your cPanel.
-- **Images** lets your manage images that have been previously saved to your account. Check out a cPanel documentation article on that [here](https://documentation.cpanel.net/display/PLD/Images).
+- **Images** lets your manage images that have been previously saved to your account.
 - **Directory Privacy** allows you to set a password to protect certain directories of your account.
 - **Disk Usage** helps you monitor your account's available space.
-- **File Transfer Protocol** (FTP) is a fast and convenient way to transfer large files online. We have a tutorial on FTP [here](http://docs.reclaimhosting.com/Miscellaneous/FTP-File-Transfer-Protocol/).
+- **File Transfer Protocol** (FTP) is a fast and convenient way to transfer large files online. We have a tutorial on FTP [here](http://docs.reclaimhosting.com/miscellaneous/ftp-file-transfer-protocol).
 
 ##### Databases
 
@@ -55,7 +55,7 @@ The Databases section allows you to create MySQL and PostgreSQL databases and us
 
 ![Databases](https://farm2.staticflickr.com/1446/24376064650_3750bdf5c4_c.jpg)
 
-- **phpMyAdmin**: manage a single database as well as a whole MySQL server. See more about the supported features of phpMyAdmin [here](http://cpanel.huskerdu.reclaimhosting.com/cpsess1679149195/3rdparty/phpMyAdmin/doc/html/intro.html).
+- **phpMyAdmin**: manage a single database as well as a whole MySQL server.
 - **MySQL Database** & **MySQL Database Wizard**: allows you to store and manage large amounts of information over the web; these are essential to running web-based applications like bulletin boards, content management systems, and online shopping carts. The Wizard guides you through setting up a MySQL database and user privileges.
 - **Remote MySQL**: You can use this to add a specific domain name so visitors can connect to your MySQL databases.
 
@@ -65,11 +65,11 @@ Clicking on the Web Applications section will open Installatron; this is where y
 
 ![Web Apps](https://farm2.staticflickr.com/1543/24303978579_fd0c210545_c.jpg)
 
-Every users' cPanel will look a tad different depending on what applications they've installed. To understand more about web applications, click [here](http://docs.reclaimhosting.com/Miscellaneous/What-Exactly-is-a-Web-Application/). 
+Every users' cPanel will look a tad different depending on what applications they've installed. To understand more about web applications, click [here](http://docs.reclaimhosting.com/miscellaneous/what-exactly-is-a-web-application). 
 
 ##### Domains
 
-The Domains section of cPanel allows you to manage your [addon domains](http://docs.reclaimhosting.com/domain-management/addon-domains), [subdomains](http://docs.reclaimhosting.com/Domain-Management/Subdomains-and-Subfolders/#subdomains), aliases and redirected domains. Additionally, you can use the Simple Zone Editor (and in some cases, the Advanced Zone Editor) to map different parts of your domain to different services. 
+The Domains section of cPanel allows you to manage your [addon domains](http://docs.reclaimhosting.com/domain-management/addon-domains), [subdomains](http://docs.reclaimhosting.com/domain-management/subdomains-and-subfolders), aliases and redirected domains. Additionally, you can use the Simple Zone Editor (and in some cases, the Advanced Zone Editor) to map different parts of your domain to different services. 
 
 ![Domains](https://farm2.staticflickr.com/1588/24043668124_24bb1c8b77_c.jpg)
 
@@ -139,7 +139,7 @@ The Software section of cPanel is located towards the bottom of your cPanel dash
 ![Software](https://farm2.staticflickr.com/1594/24672289345_baf053761c_c.jpg)
 
 - **Optimize Website**: This function allows you to optimize the performance of your website by tweaking the way Apache handles requests
-- **Installatron Applications Installer**: this function will take you to the installatron interface where you can download new web applications, or manage your current ones. Learn more about web applications [here](http://docs.reclaimhosting.com/Miscellaneous/What-Exactly-is-a-Web-Application/).
+- **Installatron Applications Installer**: this function will take you to the installatron interface where you can download new web applications, or manage your current ones. Learn more about web applications [here](http://docs.reclaimhosting.com/miscellaneous/what-exactly-is-a-web-application).
 
 
 ##### Advanced

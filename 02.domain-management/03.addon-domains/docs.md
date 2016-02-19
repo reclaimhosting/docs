@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 ---
+
 ##What is an Addon Domain?
 
 An addon domain is a term that cPanel uses for adding another domain to your hosting account. An Addon Domain basically tells the server "I own this domain and now I want to host it on this server and do something with it." 
@@ -40,7 +41,7 @@ Once you're done setting up your domain options, click **Continue** and wait a f
 
 ##Installing applications on your addon domain
 
-Once your domain is set up, you can select and install applications like WordPress or Omeka like normal. Find out how to get started with WordPress [here](http://docs.reclaimhosting.com/Getting-Started-with-Reclaim-Hosting/Installing-WordPress/), or learn to work with Omeka [here](http://docs.reclaimhosting.com/Omeka/Installing-Omeka/).
+Once your domain is set up, you can select and install applications like WordPress or Omeka like normal. Find out how to get started with WordPress [here](http://docs.reclaimhosting.com/getting-started/installing-wordpress), or learn to work with Omeka [here](http://docs.reclaimhosting.com/omeka/installing-omeka).
 
 ##Transferring a domain from another registrar
 

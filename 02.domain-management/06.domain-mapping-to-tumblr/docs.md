@@ -4,7 +4,8 @@ taxonomy:
     category:
         - docs
 ---
-Let's say that you've registered a domain with Reclaim Hosting, and you've mapped that domain to to your Wordpress website. Now, maybe you're interested in pulling data from an outside source onto your website while still using your domain. This is done using [subdomains](http://docs.reclaimhosting.com/Domain-Management/Subdomains-and-Subfolders/#subdomains). 
+
+Let's say that you've registered a domain with Reclaim Hosting, and you've mapped that domain to to your Wordpress website. Now, maybe you're interested in pulling data from an outside source onto your website while still using your domain. This is done using [subdomains](http://docs.reclaimhosting.com/domain-management/subdomains-and-subfolders#subdomains). 
 
 **The idea is fairly simple**: create a subdomain, then redirect that subdomain to the outside source that you'd like to pull in. 
 

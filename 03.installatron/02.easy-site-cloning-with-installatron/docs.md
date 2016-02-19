@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Installing a piece of software like WordPress in your Reclaim Hosting account is a very simple process (hey look, [we even have a document on that](http://docs.reclaimhosting.com/Getting-Started-with-Reclaim-Hosting/Installing-WordPress/)!) but what's not always as clear is how you might *move* an installation to a different URL. A lot of folks get tricked into thinking they can just move the files to a new folder and it will work, but in fact WordPress stores URLs in a database that will break your site if you just move the files around. A much easier way to move a site to a new location is using the Clone Tool in Installatron. You'll find it by clicking on your install in cPanel and clicking this little guy right here:
+Installing a piece of software like WordPress in your Reclaim Hosting account is a very simple process (hey look, [we even have a document on that](http://docs.reclaimhosting.com/getting-started/installing-wordpress)!) but what's not always as clear is how you might *move* an installation to a different URL. A lot of folks get tricked into thinking they can just move the files to a new folder and it will work, but in fact WordPress stores URLs in a database that will break your site if you just move the files around. A much easier way to move a site to a new location is using the Clone Tool in Installatron. You'll find it by clicking on your install in cPanel and clicking this little guy right here:
 
 ![Installatron Screenshot](http://i.imgur.com/CjO8f76.png)
 

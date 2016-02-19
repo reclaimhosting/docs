@@ -7,7 +7,7 @@ taxonomy:
 
 Dreamweaver is a popular web design application built by Adobe. Unlike content management systems like WordPress where much of the design and configuration happens directly on your website, with Dreamweaver you will be editing your files locally and then pushing them to your server space on Reclaim Hosting. This guide will walk you through the initial process of making the connection to your space on Reclaim.
 
->Note: You will need to get your cPanel username and password for this guide. If you are unsure what it is login to https://portal.reclaimhosting.com and click **Accounts > My Accounts**, click the dropdown menu beside **View Details** and choose **Change Password**.
+> Please Note: You will need to get your cPanel username and password for this guide. If you are unsure what it is login to https://portal.reclaimhosting.com and click **Accounts > My Accounts**, click the dropdown menu beside **View Details** and choose **Change Password**.
 
 After building your site in Dreamweaver you'll create a connection to your server space on Reclaim Hosting by clicking **Site > Manage Sites**
 

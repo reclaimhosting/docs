@@ -7,7 +7,7 @@ taxonomy:
 
 ### Installing Omeka
 
-After logging into your cPanel, the Omeka [web application](http://docs.reclaimhosting.com/Miscellaneous/What-Exactly-is-a-Web-Application/) will generally be located under the 'Featured Applications' section. If not, search for it and click *Install this Application*.
+After logging into your cPanel, the Omeka [web application](http://docs.reclaimhosting.com/miscellaneous/what-exactly-is-a-web-application) will generally be located under the 'Featured Applications' section. If not, search for it and click *Install this Application*.
 
 ![Install Omeka](http://i1071.photobucket.com/albums/u516/Brumface/e5c87205-18f9-412b-8dde-d086e13e7562_zpsm2tn1xpz.png)
 
@@ -29,4 +29,4 @@ The automated installer will start it's magic and get your site created for you.
 
 When it's complete you'll be presented with links to access both the homepage as well as the Administration area for Omeka (the Dashboard). Our installer will automatically sign you into your Omeka site when you access it via the admin link provided on this screen.
 
-Learn more about working with Omeka [here](http://docs.reclaimhosting.com/Omeka/Working-with-Omeka/).
+Learn more about working with Omeka [here](http://docs.reclaimhosting.com/omeka/working-with-omeka).

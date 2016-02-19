@@ -75,7 +75,7 @@ Once connected to your account you can upload local files and folders by selecti
 
 Using this process allows you to edit and save your files locally and then upload copies to your hosting account, ensuring you always have a local backup of the changes you make. It's also a quick way to move a large set of files and folders to and from your account.
 
-More information about setting up **FTP** is available from our [FTP documentation](http://docs.reclaimhosting.com/Miscellaneous/FTP-File-Transfer-Protocol/).
+More information about setting up **FTP** is available from our [FTP documentation](http://docs.reclaimhosting.com/miscellaneous/ftp-file-transfer-protocol).
 
 ###<a name="webdisk"></a>Using Web Disk to mount a network folder to your computer
 
