@@ -26,4 +26,4 @@ Once the grace period for a domain name expiration has lapsed, it becomes **very
 Once the redemption period has lapsed the domain will be scheduled for deletion by the registrar. When a domain is pending deletion Reclaim Hosting has no recourse for getting the domain renewed and users will need to wait for the domain to become publicly available again to re-register it.
 
 ##Availability
-The final lifecycle of a domain registration where it is released to the general public. If the domain is a popular one often registrars will make very early attempts to register the domain, however in some instances a domain will simply become available in the general pool again and can be registered by any user.
+The final lifecycle of a domain registration where it is released to the general public. If the domain is a popular one often registrars will make very early attempts to register the domain, but in some instances a domain will simply become available in the general pool again and can be registered by any user.
