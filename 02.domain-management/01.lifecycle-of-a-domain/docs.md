@@ -20,10 +20,10 @@ Beginning 30 days before the expiration of your domain (which is typically 1 yea
 Upon expiration you have 30 days to renew a domain at no additional charge. During this grace period the domain is inactive. Upon payment of the invoice, the domain is renewed for an additional year and pointed back at our servers.
 
 ##Redemption Period - 30 days
-Once the grace period for a domain name expiration has lapsed, it becomes **very difficult and expensive** to retrieve the domain. The domain enters a "redemption period" that lasts for 30 days. During this time only Reclaim Hosting support can retrieve the domain and the cost to due this is exhorbitant (at the time of this writing the fee for this is $100). This should be considered an absolute last resort if the domain is in the redemption period and you're worried about not being able to get it back when it becomes available.
+Once the grace period for a domain name expiration has lapsed, it becomes **very difficult and expensive** to retrieve the domain. The domain enters a "redemption period" that lasts for 30 days. During this time only Reclaim Hosting support can retrieve the domain and the cost to do this is exhorbitant (at the time of this writing the fee for this is $100). This should be considered an absolute last resort if the domain is in the redemption period and you're worried about not being able to get it back when it becomes available.
 
 ##Deletion Period - 5 days
 Once the redemption period has lapsed the domain will be scheduled for deletion by the registrar. When a domain is pending deletion Reclaim Hosting has no recourse for getting the domain renewed and users will need to wait for the domain to become publicly available again to re-register it.
 
 ##Availability
-The final lifecycle of a domain registration where it is released to the general public. If the domain is a popular one often registrars will make very early attempts to register the domain, however in some instances a domain will simply become available in the general pool again and can be registered by any user.
+The final lifecycle of a domain registration where it is released to the general public. If the domain is a popular one often registrars will make very early attempts to register the domain, but in some instances a domain will simply become available in the general pool again and can be registered by any user.
